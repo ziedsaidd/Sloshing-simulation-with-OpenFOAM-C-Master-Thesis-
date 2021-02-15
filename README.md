@@ -1,1 +1,1 @@
-# Sloshing-simulation-with-OpenFOAM-C-Master-Thesis-
+# Sloshing-simulation-with-OpenFOAM-Master-Thesis-
